@@ -1,2 +1,2 @@
 # pyspark_ml_utils
-useful stuff for machine learning in spark
+This contains useful code for doing machine learning in spark.
